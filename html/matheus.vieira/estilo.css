@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+  
+
+}
+h1{
+    font-family: monospace;
+    font-size: 40px;
+}
+.titulo{
+    border-radius: 1px;
+    margin-bottom: auto;
+}
